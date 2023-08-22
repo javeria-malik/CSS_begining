@@ -1,0 +1,25 @@
+.text{
+    height:334px;
+    width:135px;
+    text-decoration: underline;
+    text-transform:uppercase;
+    background-color: rgb(4, 78, 78);
+    text-align: center;
+    display: block;
+}
+.text1{
+    height:334px;
+    width:135px;
+    text-decoration: underline;
+    text-transform:uppercase;
+    background-color: rgb(2, 10, 10);
+    text-align: center;
+    display: block;
+    color:white;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.h3{
+    font-weight: 800;
+}
