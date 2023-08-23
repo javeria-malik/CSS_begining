@@ -1,0 +1,24 @@
+/* .conatiner{
+    /* font-size: 34px; 
+}
+.box{
+     /* font-size: 3em;3em means the 3 times multiply to its parent 
+}*/
+.box1{ 
+    background-color: brown;
+    width:334px;
+    width: 50vw;
+    
+}
+.box2{ 
+    background-color: rgb(247, 18, 18);
+    width:334px;
+    width: 50vw;
+    height:50vh
+}
+h3{
+    background-color: rgb(9, 9, 78);
+    min-width: 780px;/* since the isth is fix now wahatever width will you gie it will fremain same same work for min*/
+    color:white;
+    width:78px
+}
