@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    color:bisque;
+    height:70px
+    
+}
+li{
+    display: inline;
+}
+p{
+    text-align: center;
+    border:2px solid white
+}
+.conatiner2{
+    height:50vh;
+    background-color: aqua;
+    width:50vw;
+    margin: auto;
+    padding:0 34px;
+    position: absolute;
+    text-align: center;
+
+}
+.box{
+    width:200px;
+    height:200px;
+    background-color: rgb(189, 201, 201);
+    position:absolute;/*position does not work by top bottom left right in static  but work in relative*/
+   
+}
+.box2{
+    width:560px;
+    height:200px;
+    background-color: rgb(1, 20, 20);
+    /* position:relative;position does not work by top bottom left right in static  but work in relative */
+    
+    /* position:absolute; */
+    color: beige;
+}
+.li1{
+    list-style-type: square;
+    color:red
+}
