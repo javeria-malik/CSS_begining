@@ -1,0 +1,43 @@
+/* .box1{
+    height:150px;
+    width:105px;
+    background-color: blue;
+    /* float:right; 
+} 
+.box2{
+     height:150px;
+    width:105px;
+    background-color: red;
+     float:right; 
+    clear:right;/* clear command prevent any element to flaot to either side 
+    border: 2px solid black;
+
+} */
+.container{
+    display: flex;
+    /*flex-direction: column; if we give flex-direction column then it will work in column direction */
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: aquamarine;
+    height:45vh;
+    align-items:center;
+    align-content:center;
+}
+.class1{
+    height:204px;
+    width:100px;
+    background-color: rgb(2, 2, 15);
+    /* float:right; */
+    color:blanchedalmond
+} 
+.class2{
+     height:204px;
+    width:100px;
+    background-color: rgb(219, 200, 25);
+     /* float:right; 
+    clear:right;clear command prevent any element to flaot to either side */
+    border: 2px solid black;
+    color:beige
+
+}
+
