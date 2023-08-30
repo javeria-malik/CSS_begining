@@ -1,0 +1,27 @@
+.container{
+    display:grid;
+    background-color:yellow ;
+    grid-row-gap: 9px;
+    grid-column-gap:9px;
+    grid-template-columns: auto auto;/*use to make multiple columns*/
+    }
+    .item{
+        background-color: aqua;
+        border:2px solid red
+    }
+    .container1{
+        display:grid;
+        background-color:yellow ;
+        height:56vh;
+        grid-gap: 9px;
+        grid-template-columns: 34px 334px auto;/*it will arrange thw width of all columns */
+        grid-template-columns: auto auto;/*use to make multiple columns*/
+        grid-template-rows: 434px 834px ;
+        /* align-content:center; */
+        
+        }
+        .item1{
+            background-color: aqua;
+            border:2px solid red
+        }
+    
